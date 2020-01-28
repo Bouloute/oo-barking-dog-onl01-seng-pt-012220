@@ -1,8 +1,4 @@
-# Your code goes here!
-def name=(dogs_name)
-    @this_dogs_name = dogs_name
-  end
-
+class Dag
   def name
     @this_dogs_name
   end
